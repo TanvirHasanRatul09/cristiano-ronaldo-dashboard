@@ -32,6 +32,8 @@ The dashboard provides interactive insights into:
 ## Dashboard Preview
 
 ### Overview Dashboard
+## Dashboard Preview
+
 ![Dashboard](screenshots/overview.png)
 
 ---
