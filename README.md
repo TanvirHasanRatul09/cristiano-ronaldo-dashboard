@@ -1,4 +1,3 @@
-<<<<<<<< HEAD:readme.md
 # Cristiano Ronaldo Club Career Stats Dashboard
 
 ## Project Overview
@@ -33,7 +32,5 @@ The dashboard provides interactive insights into:
 ## Dashboard Preview
 
 ### Overview Dashboard
-## Dashboard Preview
 
-![Dashboard](../screenshots/overview.png)
-:readme/README.md
+![Dashboard](screenshots/overview.png)
