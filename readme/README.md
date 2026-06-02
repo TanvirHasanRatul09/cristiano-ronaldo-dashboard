@@ -33,7 +33,7 @@ The dashboard provides interactive insights into:
 
 ### Overview Dashboard
 ## Dashboard Preview
-![dashboard](screenshots/overview.png)
+![Dashboard](screenshots/overview.png)
 
 
 
